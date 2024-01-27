@@ -19,3 +19,9 @@ Easy Resources mod:
 (*) The default conveyor, and the titanium conveyor belts work faster.
 
 (*) The item factories for silicon, metaglass, graphite, surge alloy, phase fabric, and plastanium work faster.
+
+<br>
+
+**Notes:**
+
+Also see the Cores Anywhere mod, which is a Java mod.
