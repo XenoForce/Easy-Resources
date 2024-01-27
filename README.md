@@ -24,4 +24,4 @@ Easy Resources mod:
 
 **Notes:**
 
-Also see the Cores Anywhere mod, which is a Java mod.
+Also see the "Cores Anywhere" mod, which is a Java mod.
