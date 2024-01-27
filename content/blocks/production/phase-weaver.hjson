@@ -1,0 +1,19 @@
+itemCapacity: 500
+
+hasItems: true
+
+craftTime: 20
+
+consumes: {
+  power: 0.05
+
+/*
+  items: [
+    thorium/1
+    sand/1
+  ]
+*/
+
+}
+
+outputItem: phase-fabric/40
