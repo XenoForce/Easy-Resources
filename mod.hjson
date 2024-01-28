@@ -2,7 +2,7 @@ name: easy-resources-mod
 displayName: Easy Resources
 author: Xeno
 description: Also see mods: Cores Anywhere _and_ No Grinding
-version: "1.0.1"
+version: "1.0.2"
 minGameVersion: "136"
 dependencies: []
 hideBrowser: false
