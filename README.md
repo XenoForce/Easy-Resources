@@ -4,7 +4,7 @@
 
 Easy Resources mod:
 
-(*) Please note: This mod is for the Serpulo planet, and Not for the Erekir planet.
+Please note: This mod is for the Serpulo planet, and Not for the Erekir planet.
 
 <br>
 
